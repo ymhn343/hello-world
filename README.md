@@ -1,2 +1,2 @@
 # hello-world
-Testing
+Hello world! I am about to learn programming now.
